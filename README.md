@@ -1,6 +1,6 @@
 # eth-assessment4
 
-This is the fourth assessment for ETH-AVAX Proof for Metacrafters using Solidity.
+This is the assessment for ETH Proof for Metacrafters using Solidity.
 
 ## Description
 
